@@ -1,2 +1,0 @@
-# APS---LogicadePrograma-o
-APS
